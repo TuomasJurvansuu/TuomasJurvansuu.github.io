@@ -10,11 +10,11 @@ This is a basic static website using GitHub Pages and markdown syntax.
 
 ### Links
 
-- [My GitHub Profile](https://github.com/username)
+- [My GitHub Profile](https://github.com/TuomasJurvansuu)
 
 ### Images
 
-![My Image](https://via.placeholder.com/150)
+![My Image](https://TuomasJurvansuu.github.io/my-image.png)
 
 > "Markdown is a lightweight markup language."
 
