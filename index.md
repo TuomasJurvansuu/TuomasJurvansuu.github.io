@@ -16,5 +16,3 @@ This is a basic static website using GitHub Pages and markdown syntax.
 
 ![My Image]([https://TuomasJurvansuu.github.io/my-image.png](https://raw.githubusercontent.com/TuomasJurvansuu/TuomasJurvansuu.github.io/refs/heads/main/my-image.png)
 
-> "Markdown is a lightweight markup language."
-
